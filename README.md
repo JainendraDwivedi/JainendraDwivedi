@@ -23,7 +23,7 @@ When I'm not coding find me taking photos or posting memes.
    def initialize
      @name = 'Jainendra Dwivedi'
      @age = 20
-     @work = [ 'Student at MNNIT Allahabad' ]
+<!--      @work = [ 'Student at MNNIT Allahabad' ] -->
      @education = [ 'Student at MNNIT Allahabad' ]
      @hobbies = [ 'Chess', 'Anime', 'Cricket','Pianoist' ]
    end
@@ -31,10 +31,12 @@ When I'm not coding find me taking photos or posting memes.
    def current_location
      'Prayagraj, India'
    end
+   
+   def tools
+    'BootStrap','MERN','PHP','MySQL','C++'
+    
 
-   def next_location
-     'Prayagraj :)'
-   end
+   
 
  end
  ```
