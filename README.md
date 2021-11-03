@@ -34,10 +34,6 @@ I'm a fullstack Web Developer and Competitive Programmer from MNNIT Allahabad.
    
    def tools
     'BootStrap','MERN','PHP','MySQL','C++'
-    
-
-   
-
  end
  ```
  
