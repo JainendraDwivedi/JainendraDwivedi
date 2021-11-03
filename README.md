@@ -4,8 +4,8 @@
 I'm a fullstack Web Developer and Competitive Programmer from MNNIT Allahabad.
 </p>
 <p align="center"> 
-When I'm not coding find me taking photos or posting memes.
-  Connect Here!
+<!-- When I'm not coding find me taking photos or posting memes. -->
+  Contact Me ->
 </p>
 
 <div align="center">
