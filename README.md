@@ -9,9 +9,9 @@ When I'm not coding find me taking photos or posting memes.
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainendradwivedi/)](https://www.linkedin.com/in/jainendradwivedi/)
+  [![Linkedin Badge](https://img.shields.io/badge/-JainendraDwivedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jainendradwivedi/)](https://www.linkedin.com/in/jainendradwivedi/)
  
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwivedijainendra111@gmail.com)](mailto:dwivedijainendra111@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Jainendra Dwivedi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dwivedijainendra111@gmail.com)](mailto:dwivedijainendra111@gmail.com)
 </div>
 <br>
 
