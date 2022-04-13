@@ -33,7 +33,7 @@ I'm a Fullstack Web Developer, Android Developer and Competitive Programmer from
    end
    
    def tools
-    'BootStrap','MERN','PHP','MySQL','C++'
+    'Kotlin','BootStrap','MERN','PHP','MySQL','C++'
  end
  ```
  
