@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Jainendra Dwivedi</h1>
 
 <p align="center">
-I'm a Fullstack Web Developer, Android Developer and Competitive Programmer from MNNIT Allahabad.
+I'm a Fullstack Web Developer and Competitive Programmer from MNNIT Allahabad.
 </p>
 
 <div align="center">
